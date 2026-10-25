@@ -1,0 +1,40 @@
+name: Removal request
+description: Ask for art or an image to be removed from this repo
+title: "Removal request: "
+labels: ["removal-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reaching out. If you made or own art in this repo and want it removed, fill this in and it will be taken down.
+  - type: input
+    id: what
+    attributes:
+      label: Which card or file?
+      description: A card name, or a link to the file or folder.
+    validations:
+      required: true
+  - type: dropdown
+    id: who
+    attributes:
+      label: Who are you?
+      options:
+        - Artist
+        - Studio
+        - Rights holder
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: credit
+    attributes:
+      label: Name or handle
+      description: How you're credited, so it can be removed from the credits as well.
+    validations:
+      required: false
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else?
+    validations:
+      required: false
