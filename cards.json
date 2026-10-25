@@ -1,0 +1,2971 @@
+{
+ "generated": "2026-10-25",
+ "cards": [
+  {
+   "name": "Adam Smasher - Ender of Legends",
+   "character": "Adam Smasher",
+   "title": "Ender of Legends",
+   "type": "Legend",
+   "rarity": "Iconic Legend",
+   "number": "141",
+   "printings": "Beta Iconic Legend β141; Retail Iconic Legend 141; Set 1 Promos Nova 008",
+   "artists": [
+    "Pandart Studio",
+    "Jacob Schade"
+   ],
+   "path": "cards/Adam_Smasher/Ender_of_Legends",
+   "images": [
+    {
+     "file": "beta-141.webp",
+     "printing": "Beta Iconic #141"
+    },
+    {
+     "file": "retail-141.webp",
+     "printing": "Retail Iconic #141"
+    },
+    {
+     "file": "nova-008.webp",
+     "printing": "Nova Rare 008 (Set 1 Promos)"
+    }
+   ],
+   "artstation": [
+    "https://www.artstation.com/artwork/O3mNay"
+   ],
+   "link_only_art": [
+    {
+     "what": "Full art (ArtStation)",
+     "by": "ArtStation"
+    }
+   ],
+   "reveals": [
+    {
+     "id": "2016919711812923668",
+     "date": "2026-01-29",
+     "url": "https://x.com/Cyberpunk_TCG/status/2016919711812923668"
+    },
+    {
+     "id": "2033941747596718122",
+     "date": "2026-03-17",
+     "url": "https://x.com/Cyberpunk_TCG/status/2033941747596718122"
+    },
+    {
+     "id": "2107939305108750802",
+     "date": "2026-10-07",
+     "url": "https://x.com/Cyberpunk_TCG/status/2107939305108750802"
+    }
+   ]
+  },
+  {
+   "name": "Adam Smasher - Metal Over Meat",
+   "character": "Adam Smasher",
+   "title": "Metal Over Meat",
+   "type": "Unit",
+   "rarity": "Iconic Other",
+   "number": "160",
+   "printings": "Beta Iconic Other β160; Night City Showdown S1 Nova 002; Retail Iconic Other 160",
+   "artists": [
+    "Toni Infante",
+    "Łukasz Poller",
+    "Dardo Studios"
+   ],
+   "path": "cards/Adam_Smasher/Metal_Over_Meat",
+   "images": [
+    {
+     "file": "beta-160.webp",
+     "printing": "Beta Iconic #160"
+    },
+    {
+     "file": "retail-160.webp",
+     "printing": "Retail Iconic #160"
+    },
+    {
+     "file": "nova-002.webp",
+     "printing": "Nova Rare 002 (Night City Showdown S1)"
+    }
+   ],
+   "artstation": [
+    "https://www.artstation.com/artwork/q0QDWz"
+   ],
+   "link_only_art": [
+    {
+     "what": "Regular printing art",
+     "by": "Dardo Studios"
+    }
+   ],
+   "reveals": [
+    {
+     "id": "2029965624504393935",
+     "date": "2026-03-06",
+     "url": "https://x.com/Cyberpunk_TCG/status/2029965624504393935"
+    },
+    {
+     "id": "2086845716433911996",
+     "date": "2026-08-10",
+     "url": "https://x.com/Cyberpunk_TCG/status/2086845716433911996"
+    },
+    {
+     "id": "2098517222557720787",
+     "date": "2026-09-11",
+     "url": "https://x.com/Cyberpunk_TCG/status/2098517222557720787"
+    }
+   ]
+  },
+  {
+   "name": "Alt Cunningham - Soulkiller Architect",
+   "character": "Alt Cunningham",
+   "title": "Soulkiller Architect",
+   "type": "Legend",
+   "rarity": "Iconic Legend",
+   "number": "155",
+   "printings": "Beta Iconic Legend β155; Edgerunner Open S 1 Nova 048; Retail Iconic Legend 155",
+   "artists": [
+    "Pandart Studio",
+    "Radiance Li",
+    "Reinaldo Indrajaya"
+   ],
+   "path": "cards/Alt_Cunningham/Soulkiller_Architect",
+   "images": [
+    {
+     "file": "beta-155.webp",
+     "printing": "Beta Iconic #155"
+    },
+    {
+     "file": "retail-155.webp",
+     "printing": "Retail Iconic #155"
+    },
+    {
+     "file": "nova-048.webp",
+     "printing": "Nova Rare 048 (Edgerunner Open S 1)"
+    }
+   ],
+   "artstation": [
+    "https://www.artstation.com/artwork/o0bZvz",
+    "https://www.artstation.com/artwork/rlxLEG",
+    "https://www.artstation.com/artwork/gRkzkZ"
+   ],
+   "link_only_art": [
+    {
+     "what": "Full art (ArtStation)",
+     "by": "ArtStation"
+    }
+   ],
+   "reveals": [
+    {
+     "id": "2027429086474248342",
+     "date": "2026-02-27",
+     "url": "https://x.com/Cyberpunk_TCG/status/2027429086474248342"
+    },
+    {
+     "id": "2032924884393767119",
+     "date": "2026-03-14",
+     "url": "https://x.com/Cyberpunk_TCG/status/2032924884393767119"
+    },
+    {
+     "id": "2033946041985192130",
+     "date": "2026-03-17",
+     "url": "https://x.com/Cyberpunk_TCG/status/2033946041985192130"
+    },
+    {
+     "id": "2091919275833405618",
+     "date": "2026-08-24",
+     "url": "https://x.com/Cyberpunk_TCG/status/2091919275833405618"
+    },
+    {
+     "id": "2097067661733626090",
+     "date": "2026-09-07",
+     "url": "https://x.com/Cyberpunk_TCG/status/2097067661733626090"
+    }
+   ]
+  },
+  {
+   "name": "Alt Cunningham - Mother of Daemons",
+   "character": "Alt Cunningham",
+   "title": "Mother of Daemons",
+   "type": "Unit",
+   "rarity": "Iconic Other",
+   "number": "161",
+   "printings": "Beta Iconic Other β161; Retail Iconic Other 161",
+   "artists": [
+    "Dardo Studios",
+    "Łukasz Poller"
+   ],
+   "path": "cards/Alt_Cunningham/Mother_of_Daemons",
+   "images": [
+    {
+     "file": "beta-161.webp",
+     "printing": "Beta Iconic #161"
+    },
+    {
+     "file": "retail-161.webp",
+     "printing": "Retail Iconic #161"
+    }
+   ],
+   "artstation": [
+    "https://www.artstation.com/artwork/2LqEEa"
+   ],
+   "link_only_art": [
+    {
+     "what": "Full art (ArtStation)",
+     "by": "ArtStation"
+    }
+   ],
+   "reveals": [
+    {
+     "id": "2109751422153572685",
+     "date": "2026-10-12",
+     "url": "https://x.com/Cyberpunk_TCG/status/2109751422153572685"
+    }
+   ]
+  },
+  {
+   "name": "Dexter DeShawn - Off the Grid",
+   "character": "Dexter DeShawn",
+   "title": "Off the Grid",
+   "type": "Legend",
+   "rarity": "Iconic Legend",
+   "number": "142",
+   "printings": "Beta Iconic Legend β142; Edgerunner Open S 1 Nova 012; Retail Iconic Legend 142",
+   "artists": [
+    "Pandart Studio",
+    "TOPDOG Entertainment"
+   ],
+   "path": "cards/Dexter_DeShawn/Off_the_Grid",
+   "images": [
+    {
+     "file": "beta-142.webp",
+     "printing": "Beta Iconic #142"
+    },
+    {
+     "file": "retail-142.webp",
+     "printing": "Retail Iconic #142"
+    },
+    {
+     "file": "nova-012.webp",
+     "printing": "Nova Rare 012 (Edgerunner Open S 1)"
+    }
+   ],
+   "artstation": [
+    "https://www.artstation.com/artwork/Y8Gzed"
+   ],
+   "link_only_art": [
+    {
+     "what": "Full art (ArtStation)",
+     "by": "ArtStation"
+    }
+   ],
+   "reveals": [
+    {
+     "id": "2078223502423814145",
+     "date": "2026-07-17",
+     "url": "https://x.com/Cyberpunk_TCG/status/2078223502423814145"
+    },
+    {
+     "id": "2087645625491894457",
+     "date": "2026-08-12",
+     "url": "https://x.com/Cyberpunk_TCG/status/2087645625491894457"
+    },
+    {
+     "id": "2091194242655739957",
+     "date": "2026-08-22",
+     "url": "https://x.com/Cyberpunk_TCG/status/2091194242655739957"
+    },
+    {
+     "id": "2111488415476695263",
+     "date": "2026-10-17",
+     "url": "https://x.com/Cyberpunk_TCG/status/2111488415476695263"
+    }
+   ]
+  },
+  {
+   "name": "Dexter DeShawn - One Last Chance",
+   "character": "Dexter DeShawn",
+   "title": "One Last Chance",
+   "type": null,
+   "rarity": "Art",
+   "number": null,
+   "printings": null,
+   "artists": [
+    "Gabriel Rubio",
+    "Mooncolony"
+   ],
+   "path": "cards/Dexter_DeShawn/One_Last_Chance",
+   "images": [],
+   "artstation": [
+    "https://www.artstation.com/artwork/5WNGNO",
+    "https://www.artstation.com/artwork/a0AOO2"
+   ],
+   "link_only_art": [
+    {
+     "what": "Art",
+     "by": "Mooncolony"
+    }
+   ],
+   "reveals": []
+  },
+  {
+   "name": "Dum Dum - Maelstrom Triggerman",
+   "character": "Dum Dum",
+   "title": "Maelstrom Triggerman",
+   "type": "Legend",
+   "rarity": "Iconic Legend",
+   "number": "145",
+   "printings": "Beta Iconic Legend β145; Edgerunner Open S 1 Nova 035; Retail Iconic Legend 145",
+   "artists": [
+    "Pandart Studio",
+    "Kuya Jaypi",
+    "Gaowen Fu"
+   ],
+   "path": "cards/Dum_Dum/Maelstrom_Triggerman",
+   "images": [
+    {
+     "file": "beta-145.webp",
+     "printing": "Beta Iconic #145"
+    },
+    {
+     "file": "retail-145.webp",
+     "printing": "Retail Iconic #145"
+    },
+    {
+     "file": "nova-035.webp",
+     "printing": "Nova Rare 035 (Edgerunner Open S 1)"
+    }
+   ],
+   "artstation": [
+    "https://www.artstation.com/artwork/DYLV1O",
+    "https://www.artstation.com/artwork/rlxLEG",
+    "https://www.artstation.com/artwork/4NAZbY"
+   ],
+   "link_only_art": [
+    {
+     "what": "Full art (ArtStation)",
+     "by": "ArtStation"
+    }
+   ],
+   "reveals": [
+    {
+     "id": "2021993139569823917",
+     "date": "2026-02-12",
+     "url": "https://x.com/Cyberpunk_TCG/status/2021993139569823917"
+    },
+    {
+     "id": "2030327703706993071",
+     "date": "2026-03-07",
+     "url": "https://x.com/Cyberpunk_TCG/status/2030327703706993071"
+    },
+    {
+     "id": "2033963233996833169",
+     "date": "2026-03-17",
+     "url": "https://x.com/Cyberpunk_TCG/status/2033963233996833169"
+    },
+    {
+     "id": "2106127498182266985",
+     "date": "2026-10-02",
+     "url": "https://x.com/Cyberpunk_TCG/status/2106127498182266985"
+    }
+   ]
+  },
+  {
+   "name": "Evelyn Parker - Beautiful Enigma",
+   "character": "Evelyn Parker",
+   "title": "Beautiful Enigma",
+   "type": "Legend",
+   "rarity": "Iconic Legend",
+   "number": "156",
+   "printings": "Beta Iconic Legend β156; Edgerunner Open S 1 Nova 049; Retail Iconic Legend 156",
+   "artists": [
+    "Pandart Studio"
+   ],
+   "path": "cards/Evelyn_Parker/Beautiful_Enigma",
+   "images": [
+    {
+     "file": "beta-156.webp",
+     "printing": "Beta Iconic #156"
+    },
+    {
+     "file": "retail-156.webp",
+     "printing": "Retail Iconic #156"
+    },
+    {
+     "file": "nova-049.webp",
+     "printing": "Nova Rare 049 (Edgerunner Open S 1)"
+    }
+   ],
+   "artstation": [],
+   "link_only_art": [],
+   "reveals": [
+    {
+     "id": "2023442366560870616",
+     "date": "2026-02-16",
+     "url": "https://x.com/Cyberpunk_TCG/status/2023442366560870616"
+    },
+    {
+     "id": "2029240887159431480",
+     "date": "2026-03-04",
+     "url": "https://x.com/Cyberpunk_TCG/status/2029240887159431480"
+    },
+    {
+     "id": "2033999027075703045",
+     "date": "2026-03-17",
+     "url": "https://x.com/Cyberpunk_TCG/status/2033999027075703045"
+    },
+    {
+     "id": "2097717796347981981",
+     "date": "2026-09-09",
+     "url": "https://x.com/Cyberpunk_TCG/status/2097717796347981981"
+    },
+    {
+     "id": "2101703033881035132",
+     "date": "2026-09-20",
+     "url": "https://x.com/Cyberpunk_TCG/status/2101703033881035132"
+    }
+   ]
+  },
+  {
+   "name": "Goro Takemura - Vengeful Bodyguard",
+   "character": "Goro Takemura",
+   "title": "Vengeful Bodyguard",
+   "type": "Legend",
+   "rarity": "Iconic Legend",
+   "number": "150",
+   "printings": "Beta Iconic Legend β150; Edgerunner Open S 1 Nova 042; Retail Iconic Legend 150",
+   "artists": [
+    "Pandart Studio",
+    "Gaowen Fu"
+   ],
+   "path": "cards/Goro_Takemura/Vengeful_Bodyguard",
+   "images": [
+    {
+     "file": "beta-150.webp",
+     "printing": "Beta Iconic #150"
+    },
+    {
+     "file": "retail-150.webp",
+     "printing": "Retail Iconic #150"
+    },
+    {
+     "file": "nova-042.webp",
+     "printing": "Nova Rare 042 (Edgerunner Open S 1)"
+    }
+   ],
+   "artstation": [
+    "https://www.artstation.com/artwork/rlxLEG",
+    "https://www.artstation.com/artwork/dyE10K"
+   ],
+   "link_only_art": [
+    {
+     "what": "Full art (ArtStation)",
+     "by": "ArtStation"
+    }
+   ],
+   "reveals": [
+    {
+     "id": "2028516129040199829",
+     "date": "2026-03-02",
+     "url": "https://x.com/Cyberpunk_TCG/status/2028516129040199829"
+    },
+    {
+     "id": "2041872170985325046",
+     "date": "2026-04-08",
+     "url": "https://x.com/Cyberpunk_TCG/status/2041872170985325046"
+    },
+    {
+     "id": "2045533145534021700",
+     "date": "2026-04-18",
+     "url": "https://x.com/Cyberpunk_TCG/status/2045533145534021700"
+    }
+   ]
+  },
+  {
+   "name": "Goro Takemura - Hands Unclean",
+   "character": "Goro Takemura",
+   "title": "Hands Unclean",
+   "type": "Legend",
+   "rarity": "Nova",
+   "number": null,
+   "printings": "Box Toppers - Retail Nova 003",
+   "artists": [
+    "Vincenzo Riccardi",
+    "Bad Moon Art Studio"
+   ],
+   "path": "cards/Goro_Takemura/Hands_Unclean",
+   "images": [
+    {
+     "file": "nova-003.webp",
+     "printing": "Nova Rare 003 (Box Toppers - Retail)"
+    }
+   ],
+   "artstation": [
+    "https://www.artstation.com/artwork/Bk82D4",
+    "https://www.artstation.com/artwork/Ov8ovJ"
+   ],
+   "link_only_art": [
+    {
+     "what": "Full art (ArtStation)",
+     "by": "ArtStation"
+    },
+    {
+     "what": "Starter deck art",
+     "by": "Bad Moon Studio"
+    }
+   ],
+   "reveals": [
+    {
+     "id": "2033951340641022284",
+     "date": "2026-03-17",
+     "url": "https://x.com/Cyberpunk_TCG/status/2033951340641022284"
+    }
+   ]
+  },
+  {
+   "name": "Hanako Arasaka - Daughter of the Emperor",
+   "character": "Hanako Arasaka",
+   "title": "Daughter of the Emperor",
+   "type": "Legend",
+   "rarity": "Iconic Legend",
+   "number": "151",
+   "printings": "Beta Iconic Legend β151; Edgerunner Open S 1 Nova 043; Retail Iconic Legend 151",
+   "artists": [
+    "Pandart Studio"
+   ],
+   "path": "cards/Hanako_Arasaka/Daughter_of_the_Emperor",
+   "images": [
+    {
+     "file": "beta-151.webp",
+     "printing": "Beta Iconic #151"
+    },
+    {
+     "file": "retail-151.webp",
+     "printing": "Retail Iconic #151"
+    },
+    {
+     "file": "nova-043.webp",
+     "printing": "Nova Rare 043 (Edgerunner Open S 1)"
+    }
+   ],
+   "artstation": [],
+   "link_only_art": [],
+   "reveals": [
+    {
+     "id": "2020905715292860602",
+     "date": "2026-02-09",
+     "url": "https://x.com/Cyberpunk_TCG/status/2020905715292860602"
+    },
+    {
+     "id": "2021268357215854636",
+     "date": "2026-02-10",
+     "url": "https://x.com/Cyberpunk_TCG/status/2021268357215854636"
+    },
+    {
+     "id": "2034202349887971496",
+     "date": "2026-03-18",
+     "url": "https://x.com/Cyberpunk_TCG/status/2034202349887971496"
+    },
+    {
+     "id": "2075973818464530707",
+     "date": "2026-07-11",
+     "url": "https://x.com/Cyberpunk_TCG/status/2075973818464530707"
+    },
+    {
+     "id": "2108664183344566457",
+     "date": "2026-10-09",
+     "url": "https://x.com/Cyberpunk_TCG/status/2108664183344566457"
+    }
+   ]
+  },
+  {
+   "name": "Hanako Arasaka - In a Gilded Cage",
+   "character": "Hanako Arasaka",
+   "title": "In a Gilded Cage",
+   "type": "Unit",
+   "rarity": "Iconic Other",
+   "number": "162",
+   "printings": "Beta Iconic Other β162; Retail Iconic Other 162",
+   "artists": [
+    "Dardo Studios",
+    "Akram"
+   ],
+   "path": "cards/Hanako_Arasaka/In_a_Gilded_Cage",
+   "images": [
+    {
+     "file": "beta-162.webp",
+     "printing": "Beta Iconic #162"
+    },
+    {
+     "file": "retail-162.webp",
+     "printing": "Retail Iconic #162"
+    }
+   ],
+   "artstation": [],
+   "link_only_art": [],
+   "reveals": [
+    {
+     "id": "2032124919866167585",
+     "date": "2026-03-12",
+     "url": "https://x.com/Cyberpunk_TCG/status/2032124919866167585"
+    },
+    {
+     "id": "2088370295287447636",
+     "date": "2026-08-14",
+     "url": "https://x.com/Cyberpunk_TCG/status/2088370295287447636"
+    },
+    {
+     "id": "2112963529288380547",
+     "date": "2026-10-21",
+     "url": "https://x.com/Cyberpunk_TCG/status/2112963529288380547"
+    }
+   ]
+  },
+  {
+   "name": "Jackie Welles - Mama's Favorite",
+   "character": "Jackie Welles",
+   "title": "Mama's Favorite",
+   "type": "Legend",
+   "rarity": "Iconic Legend",
+   "number": "152",
+   "printings": "Beta Iconic Legend β152; Edgerunner Open S 1 Nova 044; Retail Iconic Legend 152",
+   "artists": [
+    "Pandart Studio"
+   ],
+   "path": "cards/Jackie_Welles/Mamas_Favorite",
+   "images": [
+    {
+     "file": "beta-152.webp",
+     "printing": "Beta Iconic #152"
+    },
+    {
+     "file": "retail-152.webp",
+     "printing": "Retail Iconic #152"
+    },
+    {
+     "file": "nova-044.webp",
+     "printing": "Nova Rare 044 (Edgerunner Open S 1)"
+    }
+   ],
+   "artstation": [],
+   "link_only_art": [],
+   "reveals": [
+    {
+     "id": "2042266894124589200",
+     "date": "2026-04-09",
+     "url": "https://x.com/Cyberpunk_TCG/status/2042266894124589200"
+    },
+    {
+     "id": "2099529479051735210",
+     "date": "2026-09-14",
+     "url": "https://x.com/Cyberpunk_TCG/status/2099529479051735210"
+    }
+   ]
+  },
+  {
+   "name": "Jackie Welles - Pour One Out For Me",
+   "character": "Jackie Welles",
+   "title": "Pour One Out For Me",
+   "type": "Legend",
+   "rarity": "Nova",
+   "number": null,
+   "printings": "Box Toppers - Retail Nova 005",
+   "artists": [
+    "Ito (Kirby's Comic Art)",
+    "Envar"
+   ],
+   "path": "cards/Jackie_Welles/Pour_One_Out_For_Me",
+   "images": [
+    {
+     "file": "nova-005.webp",
+     "printing": "Nova Rare 005 (Box Toppers - Retail)"
+    }
+   ],
+   "artstation": [],
+   "link_only_art": [
+    {
+     "what": "Starter deck art",
+     "by": "Envar"
+    }
+   ],
+   "reveals": [
+    {
+     "id": "2018036649968443888",
+     "date": "2026-02-01",
+     "url": "https://x.com/Cyberpunk_TCG/status/2018036649968443888"
+    },
+    {
+     "id": "2034057942924767293",
+     "date": "2026-03-18",
+     "url": "https://x.com/Cyberpunk_TCG/status/2034057942924767293"
+    }
+   ]
+  },
+  {
+   "name": "Jackie Welles - Ride or Die Choom",
+   "character": "Jackie Welles",
+   "title": "Ride or Die Choom",
+   "type": "Unit",
+   "rarity": "Nova",
+   "number": null,
+   "printings": "Night City Brawl S 1 Nova 004",
+   "artists": [
+    "Ilya Kuvshinov"
+   ],
+   "path": "cards/Jackie_Welles/Ride_or_Die_Choom",
+   "images": [
+    {
+     "file": "nova-004.webp",
+     "printing": "Nova Rare 004 (Night City Brawl S 1)"
+    }
+   ],
+   "artstation": [],
+   "link_only_art": [],
+   "reveals": []
+  },
+  {
+   "name": "Johnny Silverhand - Never Stop Fighting",
+   "character": "Johnny Silverhand",
+   "title": "Never Stop Fighting",
+   "type": "Unit",
+   "rarity": "Iconic Other",
+   "number": "159",
+   "printings": "Beta Iconic Other β159; Retail Iconic Other 159",
+   "artists": [
+    "Dardo Studios",
+    "Atomhawk"
+   ],
+   "path": "cards/Johnny_Silverhand/Never_Stop_Fighting",
+   "images": [
+    {
+     "file": "beta-159.webp",
+     "printing": "Beta Iconic #159"
+    },
+    {
+     "file": "retail-159.webp",
+     "printing": "Retail Iconic #159"
+    }
+   ],
+   "artstation": [
+    "https://www.artstation.com/artwork/lERw2k"
+   ],
+   "link_only_art": [
+    {
+     "what": "Full art (ArtStation)",
+     "by": "ArtStation"
+    }
+   ],
+   "reveals": [
+    {
+     "id": "2068001531685720309",
+     "date": "2026-06-19",
+     "url": "https://x.com/Cyberpunk_TCG/status/2068001531685720309"
+    },
+    {
+     "id": "2093443692610650477",
+     "date": "2026-08-28",
+     "url": "https://x.com/Cyberpunk_TCG/status/2093443692610650477"
+    },
+    {
+     "id": "2110476165089493325",
+     "date": "2026-10-14",
+     "url": "https://x.com/Cyberpunk_TCG/status/2110476165089493325"
+    }
+   ]
+  },
+  {
+   "name": "Johnny Silverhand - Rocking Renegade",
+   "character": "Johnny Silverhand",
+   "title": "Rocking Renegade",
+   "type": "Legend",
+   "rarity": "Iconic Secret",
+   "number": "168",
+   "printings": "Beta Iconic Secret β168; Retail Iconic Secret 168",
+   "artists": [
+    "Divebound"
+   ],
+   "path": "cards/Johnny_Silverhand/Rocking_Renegade",
+   "images": [
+    {
+     "file": "beta-168.webp",
+     "printing": "Beta Iconic #168"
+    },
+    {
+     "file": "retail-168-spoiled.jpg",
+     "printing": "Retail Iconic Secret #168 (pull photo, spoiled)"
+    }
+   ],
+   "artstation": [
+    "https://www.artstation.com/artwork/V2wDW8"
+   ],
+   "link_only_art": [
+    {
+     "what": "Full art (ArtStation)",
+     "by": "ArtStation"
+    }
+   ],
+   "reveals": [
+    {
+     "id": "2019818751068123290",
+     "date": "2026-02-06",
+     "url": "https://x.com/Cyberpunk_TCG/status/2019818751068123290"
+    },
+    {
+     "id": "2034352953662787822",
+     "date": "2026-03-18",
+     "url": "https://x.com/Cyberpunk_TCG/status/2034352953662787822"
+    },
+    {
+     "id": "2083221600720035868",
+     "date": "2026-07-31",
+     "url": "https://x.com/Cyberpunk_TCG/status/2083221600720035868"
+    }
+   ]
+  },
+  {
+   "name": "Judy Álvarez - Braindance Maestro",
+   "character": "Judy Álvarez",
+   "title": "Braindance Maestro",
+   "type": "Legend",
+   "rarity": "Iconic Legend",
+   "number": "157",
+   "printings": "Beta Iconic Legend β157; Edgerunner Open S 1 Nova 015; Retail Iconic Legend 157",
+   "artists": [
+    "Pandart Studio",
+    "Envar",
+    "Gautier Viller"
+   ],
+   "path": "cards/Judy_Alvarez/Braindance_Maestro",
+   "images": [
+    {
+     "file": "beta-157.webp",
+     "printing": "Beta Iconic #157"
+    },
+    {
+     "file": "retail-157.webp",
+     "printing": "Retail Iconic #157"
+    },
+    {
+     "file": "nova-015.webp",
+     "printing": "Nova Rare 015 (Edgerunner Open S 1)"
+    }
+   ],
+   "artstation": [
+    "https://www.artstation.com/artwork/x3G5OY"
+   ],
+   "link_only_art": [
+    {
+     "what": "Regular printing art",
+     "by": "Gautier Viller"
+    }
+   ],
+   "reveals": [
+    {
+     "id": "2021630638747517219",
+     "date": "2026-02-11",
+     "url": "https://x.com/Cyberpunk_TCG/status/2021630638747517219"
+    },
+    {
+     "id": "2037198598622822565",
+     "date": "2026-03-26",
+     "url": "https://x.com/Cyberpunk_TCG/status/2037198598622822565"
+    },
+    {
+     "id": "2081047352178020567",
+     "date": "2026-07-25",
+     "url": "https://x.com/Cyberpunk_TCG/status/2081047352178020567"
+    },
+    {
+     "id": "2103590771404210338",
+     "date": "2026-09-25",
+     "url": "https://x.com/Cyberpunk_TCG/status/2103590771404210338"
+    }
+   ]
+  },
+  {
+   "name": "Judy Álvarez - Nothing to Doubt",
+   "character": "Judy Álvarez",
+   "title": "Nothing to Doubt",
+   "type": "Unit",
+   "rarity": "Iconic Secret",
+   "number": "171",
+   "printings": "Beta Iconic Secret β171; Retail Iconic Secret 171",
+   "artists": [
+    "Divebound"
+   ],
+   "path": "cards/Judy_Alvarez/Nothing_to_Doubt",
+   "images": [
+    {
+     "file": "beta-171.webp",
+     "printing": "Beta Iconic #171"
+    },
+    {
+     "file": "retail-171-spoiled.jpg",
+     "printing": "Retail Iconic Secret #171 (pull photo, spoiled)"
+    }
+   ],
+   "artstation": [
+    "https://www.artstation.com/artwork/qJq6nz"
+   ],
+   "link_only_art": [
+    {
+     "what": "Full art (ArtStation)",
+     "by": "ArtStation"
+    }
+   ],
+   "reveals": [
+    {
+     "id": "2017282132096241843",
+     "date": "2026-01-30",
+     "url": "https://x.com/Cyberpunk_TCG/status/2017282132096241843"
+    }
+   ]
+  },
+  {
+   "name": "Kerry Eurodyne - Axe, Attitude, Audience",
+   "character": "Kerry Eurodyne",
+   "title": "Axe, Attitude, Audience",
+   "type": "Legend",
+   "rarity": "Iconic Legend",
+   "number": "146",
+   "printings": "Beta Iconic Legend β146; Edgerunner Open S 1 Nova 036; Retail Iconic Legend 146",
+   "artists": [
+    "Pandart Studio",
+    "Jacob Schade"
+   ],
+   "path": "cards/Kerry_Eurodyne/Axe_Attitude_Audience",
+   "images": [
+    {
+     "file": "beta-146.webp",
+     "printing": "Beta Iconic #146"
+    },
+    {
+     "file": "retail-146.webp",
+     "printing": "Retail Iconic #146"
+    },
+    {
+     "file": "nova-036.webp",
+     "printing": "Nova Rare 036 (Edgerunner Open S 1)"
+    }
+   ],
+   "artstation": [
+    "https://www.artstation.com/artwork/Y8K2bb"
+   ],
+   "link_only_art": [
+    {
+     "what": "Full art (ArtStation)",
+     "by": "ArtStation"
+    }
+   ],
+   "reveals": [
+    {
+     "id": "2019094105188417789",
+     "date": "2026-02-04",
+     "url": "https://x.com/Cyberpunk_TCG/status/2019094105188417789"
+    },
+    {
+     "id": "2035024077413388426",
+     "date": "2026-03-20",
+     "url": "https://x.com/Cyberpunk_TCG/status/2035024077413388426"
+    },
+    {
+     "id": "2038213652344434727",
+     "date": "2026-03-29",
+     "url": "https://x.com/Cyberpunk_TCG/status/2038213652344434727"
+    },
+    {
+     "id": "2070900446785397149",
+     "date": "2026-06-27",
+     "url": "https://x.com/Cyberpunk_TCG/status/2070900446785397149"
+    },
+    {
+     "id": "2103877778680451582",
+     "date": "2026-09-26",
+     "url": "https://x.com/Cyberpunk_TCG/status/2103877778680451582"
+    }
+   ]
+  },
+  {
+   "name": "Kerry Eurodyne - The Last Rockerboy",
+   "character": "Kerry Eurodyne",
+   "title": "The Last Rockerboy",
+   "type": "Unit",
+   "rarity": "Nova",
+   "number": null,
+   "printings": "Night City Brawl S 1 Nova 001",
+   "artists": [
+    "Bogna Gawrońska"
+   ],
+   "path": "cards/Kerry_Eurodyne/The_Last_Rockerboy",
+   "images": [
+    {
+     "file": "nova-001.webp",
+     "printing": "Nova Rare 001 (Night City Brawl S 1)"
+    }
+   ],
+   "artstation": [],
+   "link_only_art": [],
+   "reveals": [
+    {
+     "id": "2030690136610963466",
+     "date": "2026-03-08",
+     "url": "https://x.com/Cyberpunk_TCG/status/2030690136610963466"
+    }
+   ]
+  },
+  {
+   "name": "Maman Brigitte - Spirit of Death",
+   "character": "Maman Brigitte",
+   "title": "Spirit of Death",
+   "type": "Unit",
+   "rarity": "Nova",
+   "number": null,
+   "printings": "Night City Brawl S 1 Nova 015",
+   "artists": [
+    "TOPDOG Entertainment"
+   ],
+   "path": "cards/Maman_Brigitte/Spirit_of_Death",
+   "images": [
+    {
+     "file": "nova-015.webp",
+     "printing": "Nova Rare 015 (Night City Brawl S 1)"
+    }
+   ],
+   "artstation": [
+    "https://www.artstation.com/artwork/yA4XkJ"
+   ],
+   "link_only_art": [
+    {
+     "what": "Full art (ArtStation)",
+     "by": "ArtStation"
+    }
+   ],
+   "reveals": [
+    {
+     "id": "2046983006087151712",
+     "date": "2026-04-22",
+     "url": "https://x.com/Cyberpunk_TCG/status/2046983006087151712"
+    }
+   ]
+  },
+  {
+   "name": "Misty Olszewski - Mender of Broken Spirits",
+   "character": "Misty Olszewski",
+   "title": "Mender of Broken Spirits",
+   "type": "Unit",
+   "rarity": "Nova",
+   "number": null,
+   "printings": "Set 1 Promos Nova 006",
+   "artists": [
+    "Bruno Ferreira (Bit Bot)"
+   ],
+   "path": "cards/Misty_Olszewski/Mender_of_Broken_Spirits",
+   "images": [
+    {
+     "file": "nova-006.webp",
+     "printing": "Nova Rare 006 (Set 1 Promos)"
+    }
+   ],
+   "artstation": [],
+   "link_only_art": [],
+   "reveals": [
+    {
+     "id": "2065464898457366531",
+     "date": "2026-06-12",
+     "url": "https://x.com/Cyberpunk_TCG/status/2065464898457366531"
+    },
+    {
+     "id": "2069451250618270065",
+     "date": "2026-06-23",
+     "url": "https://x.com/Cyberpunk_TCG/status/2069451250618270065"
+    }
+   ]
+  },
+  {
+   "name": "Muamar Reyes - El Capitán",
+   "character": "Muamar Reyes",
+   "title": "El Capitán",
+   "type": "Legend",
+   "rarity": "Iconic Legend",
+   "number": "147",
+   "printings": "Beta Iconic Legend β147; Edgerunner Open S 1 Nova 014; Retail Iconic Legend 147",
+   "artists": [
+    "Pandart Studio",
+    "Envar"
+   ],
+   "path": "cards/Muamar_Reyes/El_Capitan",
+   "images": [
+    {
+     "file": "beta-147.webp",
+     "printing": "Beta Iconic #147"
+    },
+    {
+     "file": "retail-147.webp",
+     "printing": "Retail Iconic #147"
+    },
+    {
+     "file": "nova-014.webp",
+     "printing": "Nova Rare 014 (Edgerunner Open S 1)"
+    }
+   ],
+   "artstation": [],
+   "link_only_art": [],
+   "reveals": [
+    {
+     "id": "2080760161115787496",
+     "date": "2026-07-24",
+     "url": "https://x.com/Cyberpunk_TCG/status/2080760161115787496"
+    },
+    {
+     "id": "2090907001400218030",
+     "date": "2026-08-21",
+     "url": "https://x.com/Cyberpunk_TCG/status/2090907001400218030"
+    },
+    {
+     "id": "2109026480483164437",
+     "date": "2026-10-10",
+     "url": "https://x.com/Cyberpunk_TCG/status/2109026480483164437"
+    }
+   ]
+  },
+  {
+   "name": "Padre - Man of the Cross",
+   "character": "Padre",
+   "title": "Man of the Cross",
+   "type": "Legend",
+   "rarity": "Iconic Legend",
+   "number": "153",
+   "printings": "Beta Iconic Legend β153; Edgerunner Open S 1 Nova 045; Retail Iconic Legend 153",
+   "artists": [
+    "Pandart Studio"
+   ],
+   "path": "cards/Padre/Man_of_the_Cross",
+   "images": [
+    {
+     "file": "beta-153.webp",
+     "printing": "Beta Iconic #153"
+    },
+    {
+     "file": "retail-153.webp",
+     "printing": "Retail Iconic #153"
+    },
+    {
+     "file": "nova-045.webp",
+     "printing": "Nova Rare 045 (Edgerunner Open S 1)"
+    }
+   ],
+   "artstation": [],
+   "link_only_art": [],
+   "reveals": [
+    {
+     "id": "2085833521382232325",
+     "date": "2026-08-07",
+     "url": "https://x.com/Cyberpunk_TCG/status/2085833521382232325"
+    },
+    {
+     "id": "2106414740440334436",
+     "date": "2026-10-03",
+     "url": "https://x.com/Cyberpunk_TCG/status/2106414740440334436"
+    }
+   ]
+  },
+  {
+   "name": "Panam Palmer - Nomad Cavalry",
+   "character": "Panam Palmer",
+   "title": "Nomad Cavalry",
+   "type": "Legend",
+   "rarity": "Iconic Legend",
+   "number": "154",
+   "printings": "Beta Iconic Legend β154; Edgerunner Open S 1 Nova 046; Retail Iconic Legend 154",
+   "artists": [
+    "Pandart Studio"
+   ],
+   "path": "cards/Panam_Palmer/Nomad_Cavalry",
+   "images": [
+    {
+     "file": "beta-154.webp",
+     "printing": "Beta Iconic #154"
+    },
+    {
+     "file": "retail-154.webp",
+     "printing": "Retail Iconic #154"
+    },
+    {
+     "file": "nova-046.webp",
+     "printing": "Nova Rare 046 (Edgerunner Open S 1)"
+    }
+   ],
+   "artstation": [],
+   "link_only_art": [],
+   "reveals": [
+    {
+     "id": "2032487269597139092",
+     "date": "2026-03-13",
+     "url": "https://x.com/Cyberpunk_TCG/status/2032487269597139092"
+    },
+    {
+     "id": "2039485425887096961",
+     "date": "2026-04-01",
+     "url": "https://x.com/Cyberpunk_TCG/status/2039485425887096961"
+    },
+    {
+     "id": "2111200971942515172",
+     "date": "2026-10-16",
+     "url": "https://x.com/Cyberpunk_TCG/status/2111200971942515172"
+    }
+   ]
+  },
+  {
+   "name": "Panam Palmer - Strength Through Family",
+   "character": "Panam Palmer",
+   "title": "Strength Through Family",
+   "type": "Unit",
+   "rarity": "Iconic Secret",
+   "number": "170",
+   "printings": "Beta Iconic Secret β170; Retail Iconic Secret 170",
+   "artists": [
+    "Divebound"
+   ],
+   "path": "cards/Panam_Palmer/Strength_Through_Family",
+   "images": [
+    {
+     "file": "beta-170.webp",
+     "printing": "Beta Iconic #170"
+    },
+    {
+     "file": "retail-170-spoiled.jpg",
+     "printing": "Retail Iconic Secret #170 (pull photo, spoiled)"
+    }
+   ],
+   "artstation": [
+    "https://www.artstation.com/artwork/LaeynP"
+   ],
+   "link_only_art": [
+    {
+     "what": "Full art (ArtStation)",
+     "by": "ArtStation"
+    }
+   ],
+   "reveals": [
+    {
+     "id": "2052781140792983695",
+     "date": "2026-05-08",
+     "url": "https://x.com/Cyberpunk_TCG/status/2052781140792983695"
+    }
+   ]
+  },
+  {
+   "name": "Pepe Najarro - Working Doubles",
+   "character": "Pepe Najarro",
+   "title": "Working Doubles",
+   "type": null,
+   "rarity": "Art",
+   "number": null,
+   "printings": null,
+   "artists": [
+    "TOPDOG Entertainment"
+   ],
+   "path": "cards/Pepe_Najarro/Working_Doubles",
+   "images": [],
+   "artstation": [
+    "https://www.artstation.com/artwork/2LB5xY"
+   ],
+   "link_only_art": [
+    {
+     "what": "Art",
+     "by": "TOPDOG"
+    }
+   ],
+   "reveals": []
+  },
+  {
+   "name": "Rebecca - Having a Moment",
+   "character": "Rebecca",
+   "title": "Having a Moment",
+   "type": "Legend",
+   "rarity": "Nova",
+   "number": null,
+   "printings": "Set 1 Promos Nova 005",
+   "artists": [
+    "Narupiti Harunsong"
+   ],
+   "path": "cards/Rebecca/Having_a_Moment",
+   "images": [
+    {
+     "file": "nova-005.webp",
+     "printing": "Nova Rare 005 (Set 1 Promos)"
+    }
+   ],
+   "artstation": [],
+   "link_only_art": [],
+   "reveals": [
+    {
+     "id": "2070538000610550185",
+     "date": "2026-06-26",
+     "url": "https://x.com/Cyberpunk_TCG/status/2070538000610550185"
+    },
+    {
+     "id": "2073138092005785871",
+     "date": "2026-07-03",
+     "url": "https://x.com/Cyberpunk_TCG/status/2073138092005785871"
+    },
+    {
+     "id": "2073436720146587938",
+     "date": "2026-07-04",
+     "url": "https://x.com/Cyberpunk_TCG/status/2073436720146587938"
+    },
+    {
+     "id": "2095905575003390077",
+     "date": "2026-09-04",
+     "url": "https://x.com/Cyberpunk_TCG/status/2095905575003390077"
+    }
+   ]
+  },
+  {
+   "name": "Rita Wheeler - No Stupid Questions",
+   "character": "Rita Wheeler",
+   "title": "No Stupid Questions",
+   "type": null,
+   "rarity": "Art",
+   "number": null,
+   "printings": null,
+   "artists": [
+    "TOPDOG Entertainment"
+   ],
+   "path": "cards/Rita_Wheeler/No_Stupid_Questions",
+   "images": [],
+   "artstation": [
+    "https://www.artstation.com/artwork/1LNW1o"
+   ],
+   "link_only_art": [
+    {
+     "what": "Art",
+     "by": "TOPDOG"
+    }
+   ],
+   "reveals": []
+  },
+  {
+   "name": "River Ward - Detective on the Hunt",
+   "character": "River Ward",
+   "title": "Detective on the Hunt",
+   "type": "Legend",
+   "rarity": "Iconic Legend",
+   "number": "148",
+   "printings": "Beta Iconic Legend β148; Edgerunner Open S 1 Nova 038; Retail Iconic Legend 148",
+   "artists": [
+    "Pandart Studio"
+   ],
+   "path": "cards/River_Ward/Detective_on_the_Hunt",
+   "images": [
+    {
+     "file": "beta-148.webp",
+     "printing": "Beta Iconic #148"
+    },
+    {
+     "file": "retail-148.webp",
+     "printing": "Retail Iconic #148"
+    },
+    {
+     "file": "nova-038.webp",
+     "printing": "Nova Rare 038 (Edgerunner Open S 1)"
+    }
+   ],
+   "artstation": [],
+   "link_only_art": [],
+   "reveals": [
+    {
+     "id": "2022717889992622482",
+     "date": "2026-02-14",
+     "url": "https://x.com/Cyberpunk_TCG/status/2022717889992622482"
+    },
+    {
+     "id": "2028153679325319485",
+     "date": "2026-03-01",
+     "url": "https://x.com/Cyberpunk_TCG/status/2028153679325319485"
+    },
+    {
+     "id": "2040614854742933835",
+     "date": "2026-04-05",
+     "url": "https://x.com/Cyberpunk_TCG/status/2040614854742933835"
+    },
+    {
+     "id": "2100329277501682161",
+     "date": "2026-09-16",
+     "url": "https://x.com/Cyberpunk_TCG/status/2100329277501682161"
+    }
+   ]
+  },
+  {
+   "name": "Rogue Amendiares - Preem Solo",
+   "character": "Rogue Amendiares",
+   "title": "Preem Solo",
+   "type": "Legend",
+   "rarity": "Iconic Legend",
+   "number": "149",
+   "printings": "Beta Iconic Legend β149; Edgerunner Open S 1 Nova 039; Retail Iconic Legend 149",
+   "artists": [
+    "Pandart Studio"
+   ],
+   "path": "cards/Rogue_Amendiares/Preem_Solo",
+   "images": [
+    {
+     "file": "beta-149.webp",
+     "printing": "Beta Iconic #149"
+    },
+    {
+     "file": "retail-149.webp",
+     "printing": "Retail Iconic #149"
+    },
+    {
+     "file": "nova-039.webp",
+     "printing": "Nova Rare 039 (Edgerunner Open S 1)"
+    }
+   ],
+   "artstation": [],
+   "link_only_art": [],
+   "reveals": [
+    {
+     "id": "2022355588701708515",
+     "date": "2026-02-13",
+     "url": "https://x.com/Cyberpunk_TCG/status/2022355588701708515"
+    },
+    {
+     "id": "2037560928984539465",
+     "date": "2026-03-27",
+     "url": "https://x.com/Cyberpunk_TCG/status/2037560928984539465"
+    },
+    {
+     "id": "2041831415134715973",
+     "date": "2026-04-08",
+     "url": "https://x.com/Cyberpunk_TCG/status/2041831415134715973"
+    },
+    {
+     "id": "2086120688927076425",
+     "date": "2026-08-08",
+     "url": "https://x.com/Cyberpunk_TCG/status/2086120688927076425"
+    },
+    {
+     "id": "2107139808988479924",
+     "date": "2026-10-05",
+     "url": "https://x.com/Cyberpunk_TCG/status/2107139808988479924"
+    }
+   ]
+  },
+  {
+   "name": "Rogue Amendiares - Queen of the Afterlife",
+   "character": "Rogue Amendiares",
+   "title": "Queen of the Afterlife",
+   "type": "Unit",
+   "rarity": "Iconic Other",
+   "number": "166",
+   "printings": "Beta Iconic Other β166; Retail Iconic Other 166",
+   "artists": [
+    "ADIA",
+    "Dardo Studios",
+    "Mooncolony"
+   ],
+   "path": "cards/Rogue_Amendiares/Queen_of_the_Afterlife",
+   "images": [
+    {
+     "file": "beta-166.webp",
+     "printing": "Beta Iconic #166"
+    },
+    {
+     "file": "retail-166.webp",
+     "printing": "Retail Iconic #166"
+    }
+   ],
+   "artstation": [
+    "https://www.artstation.com/artwork/ZlNbDm"
+   ],
+   "link_only_art": [
+    {
+     "what": "Regular printing art",
+     "by": "Mooncolony"
+    }
+   ],
+   "reveals": [
+    {
+     "id": "2055318085406457944",
+     "date": "2026-05-15",
+     "url": "https://x.com/Cyberpunk_TCG/status/2055318085406457944"
+    },
+    {
+     "id": "2091556582022590798",
+     "date": "2026-08-23",
+     "url": "https://x.com/Cyberpunk_TCG/status/2091556582022590798"
+    },
+    {
+     "id": "2113737680513089633",
+     "date": "2026-10-23",
+     "url": "https://x.com/Cyberpunk_TCG/status/2113737680513089633"
+    }
+   ]
+  },
+  {
+   "name": "Royce - Psycho on the Edge",
+   "character": "Royce",
+   "title": "Psycho on the Edge",
+   "type": "Legend",
+   "rarity": "Iconic Legend",
+   "number": "143",
+   "printings": "Beta Iconic Legend β143; Edgerunner Open S 1 Nova 032; Retail Iconic Legend 143",
+   "artists": [
+    "Pandart Studio",
+    "Jacob Schade"
+   ],
+   "path": "cards/Royce/Psycho_on_the_Edge",
+   "images": [
+    {
+     "file": "beta-143.webp",
+     "printing": "Beta Iconic #143"
+    },
+    {
+     "file": "retail-143.webp",
+     "printing": "Retail Iconic #143"
+    },
+    {
+     "file": "nova-032.webp",
+     "printing": "Nova Rare 032 (Edgerunner Open S 1)"
+    }
+   ],
+   "artstation": [
+    "https://www.artstation.com/artwork/0lAPJ5",
+    "https://www.artstation.com/artwork/rlxLEG"
+   ],
+   "link_only_art": [
+    {
+     "what": "Full art (ArtStation)",
+     "by": "ArtStation"
+    }
+   ],
+   "reveals": [
+    {
+     "id": "2023080179266973734",
+     "date": "2026-02-15",
+     "url": "https://x.com/Cyberpunk_TCG/status/2023080179266973734"
+    },
+    {
+     "id": "2031400313467335127",
+     "date": "2026-03-10",
+     "url": "https://x.com/Cyberpunk_TCG/status/2031400313467335127"
+    },
+    {
+     "id": "2101053995686957497",
+     "date": "2026-09-18",
+     "url": "https://x.com/Cyberpunk_TCG/status/2101053995686957497"
+    }
+   ]
+  },
+  {
+   "name": "Royce - Don't Call Me Simon",
+   "character": "Royce",
+   "title": "Don't Call Me Simon",
+   "type": "Unit",
+   "rarity": "Nova",
+   "number": null,
+   "printings": "Edgerunner Open S 1 Nova 001",
+   "artists": [
+    "Mooncolony"
+   ],
+   "path": "cards/Royce/Dont_Call_Me_Simon",
+   "images": [
+    {
+     "file": "nova-001.webp",
+     "printing": "Nova Rare 001 (Edgerunner Open S 1)"
+    }
+   ],
+   "artstation": [
+    "https://www.artstation.com/artwork/98Y1ON"
+   ],
+   "link_only_art": [
+    {
+     "what": "Full art (ArtStation)",
+     "by": "ArtStation"
+    }
+   ],
+   "reveals": [
+    {
+     "id": "2027791210220286426",
+     "date": "2026-02-28",
+     "url": "https://x.com/Cyberpunk_TCG/status/2027791210220286426"
+    }
+   ]
+  },
+  {
+   "name": "Saburo Arasaka - Stubborn Patriarch",
+   "character": "Saburo Arasaka",
+   "title": "Stubborn Patriarch",
+   "type": "Legend",
+   "rarity": "Nova",
+   "number": null,
+   "printings": "Box Toppers - Retail Nova 004",
+   "artists": [
+    "Vincenzo Riccardi"
+   ],
+   "path": "cards/Saburo_Arasaka/Stubborn_Patriarch",
+   "images": [
+    {
+     "file": "nova-004.webp",
+     "printing": "Nova Rare 004 (Box Toppers - Retail)"
+    }
+   ],
+   "artstation": [
+    "https://www.artstation.com/artwork/ZlkO2m"
+   ],
+   "link_only_art": [
+    {
+     "what": "Full art (ArtStation)",
+     "by": "ArtStation"
+    }
+   ],
+   "reveals": [
+    {
+     "id": "2034511375859331359",
+     "date": "2026-03-19",
+     "url": "https://x.com/Cyberpunk_TCG/status/2034511375859331359"
+    }
+   ]
+  },
+  {
+   "name": "Sandayu Oda - Hanako's Guardian",
+   "character": "Sandayu Oda",
+   "title": "Hanako's Guardian",
+   "type": "Unit",
+   "rarity": "Iconic Other",
+   "number": "164",
+   "printings": "Beta Iconic Other β164; Retail Iconic Other 164",
+   "artists": [
+    "Dardo Studios",
+    "Mooncolony"
+   ],
+   "path": "cards/Sandayu_Oda/Hanakos_Guardian",
+   "images": [
+    {
+     "file": "beta-164.webp",
+     "printing": "Beta Iconic #164"
+    },
+    {
+     "file": "retail-164.webp",
+     "printing": "Retail Iconic #164"
+    }
+   ],
+   "artstation": [],
+   "link_only_art": [],
+   "reveals": [
+    {
+     "id": "2089382469891989912",
+     "date": "2026-08-17",
+     "url": "https://x.com/Cyberpunk_TCG/status/2089382469891989912"
+    },
+    {
+     "id": "2112288133609881679",
+     "date": "2026-10-19",
+     "url": "https://x.com/Cyberpunk_TCG/status/2112288133609881679"
+    }
+   ]
+  },
+  {
+   "name": "Sasha Yakovleva - Won't Let You Down",
+   "character": "Sasha Yakovleva",
+   "title": "Won't Let You Down",
+   "type": "Legend",
+   "rarity": "Iconic Secret",
+   "number": "169",
+   "printings": "Beta Iconic Secret β169; Retail Iconic Secret 169",
+   "artists": [
+    "Divebound"
+   ],
+   "path": "cards/Sasha_Yakovleva/Wont_Let_You_Down",
+   "images": [
+    {
+     "file": "beta-169.webp",
+     "printing": "Beta Iconic #169"
+    },
+    {
+     "file": "retail-169-spoiled.jpg",
+     "printing": "Retail Iconic Secret #169 (pull photo, spoiled)"
+    }
+   ],
+   "artstation": [
+    "https://www.artstation.com/artwork/lERYg5"
+   ],
+   "link_only_art": [
+    {
+     "what": "Full art (ArtStation)",
+     "by": "ArtStation"
+    }
+   ],
+   "reveals": [
+    {
+     "id": "2045171624224207074",
+     "date": "2026-04-17",
+     "url": "https://x.com/Cyberpunk_TCG/status/2045171624224207074"
+    }
+   ]
+  },
+  {
+   "name": "V - Streetkid",
+   "character": "V",
+   "title": "Streetkid",
+   "type": "Legend",
+   "rarity": "Iconic Legend",
+   "number": "144",
+   "printings": "Beta Iconic Legend β144; Edgerunner Open S 1 Nova 013; Retail Iconic Legend 144",
+   "artists": [
+    "Pandart Studio",
+    "Envar"
+   ],
+   "path": "cards/V/Streetkid",
+   "images": [
+    {
+     "file": "beta-144.webp",
+     "printing": "Beta Iconic #144"
+    },
+    {
+     "file": "retail-144.webp",
+     "printing": "Retail Iconic #144"
+    },
+    {
+     "file": "nova-013.webp",
+     "printing": "Nova Rare 013 (Edgerunner Open S 1)"
+    }
+   ],
+   "artstation": [],
+   "link_only_art": [],
+   "reveals": [
+    {
+     "id": "2028017496041705658",
+     "date": "2026-03-01",
+     "url": "https://x.com/Cyberpunk_TCG/status/2028017496041705658"
+    },
+    {
+     "id": "2033287250771919146",
+     "date": "2026-03-15",
+     "url": "https://x.com/Cyberpunk_TCG/status/2033287250771919146"
+    },
+    {
+     "id": "2033649725992300601",
+     "date": "2026-03-16",
+     "url": "https://x.com/Cyberpunk_TCG/status/2033649725992300601"
+    },
+    {
+     "id": "2033977224307609778",
+     "date": "2026-03-17",
+     "url": "https://x.com/Cyberpunk_TCG/status/2033977224307609778"
+    },
+    {
+     "id": "2034793386339664335",
+     "date": "2026-03-20",
+     "url": "https://x.com/Cyberpunk_TCG/status/2034793386339664335"
+    },
+    {
+     "id": "2035516874180395326",
+     "date": "2026-03-22",
+     "url": "https://x.com/Cyberpunk_TCG/status/2035516874180395326"
+    },
+    {
+     "id": "2039117045841743957",
+     "date": "2026-03-31",
+     "url": "https://x.com/Cyberpunk_TCG/status/2039117045841743957"
+    },
+    {
+     "id": "2101341196433895616",
+     "date": "2026-09-19",
+     "url": "https://x.com/Cyberpunk_TCG/status/2101341196433895616"
+    }
+   ]
+  },
+  {
+   "name": "V - Corporate Exile",
+   "character": "V",
+   "title": "Corporate Exile",
+   "type": "Legend",
+   "rarity": "Nova",
+   "number": null,
+   "printings": "Box Toppers - Retail Nova 006",
+   "artists": [
+    "Ito (Kirby's Comic Art)",
+    "Envar"
+   ],
+   "path": "cards/V/Corporate_Exile",
+   "images": [
+    {
+     "file": "nova-006.webp",
+     "printing": "Nova Rare 006 (Box Toppers - Retail)"
+    }
+   ],
+   "artstation": [
+    "https://www.artstation.com/artwork/rlaL9O"
+   ],
+   "link_only_art": [
+    {
+     "what": "Starter deck art",
+     "by": "Envar"
+    }
+   ],
+   "reveals": [
+    {
+     "id": "2033938481387303391",
+     "date": "2026-03-17",
+     "url": "https://x.com/Cyberpunk_TCG/status/2033938481387303391"
+    },
+    {
+     "id": "2034288592231567627",
+     "date": "2026-03-18",
+     "url": "https://x.com/Cyberpunk_TCG/status/2034288592231567627"
+    }
+   ]
+  },
+  {
+   "name": "V - Roamer of the Badlands",
+   "character": "V",
+   "title": "Roamer of the Badlands",
+   "type": null,
+   "rarity": "Art",
+   "number": null,
+   "printings": null,
+   "artists": [
+    "Dardo Studios"
+   ],
+   "path": "cards/V/Roamer_of_the_Badlands",
+   "images": [],
+   "artstation": [
+    "https://www.artstation.com/artwork/Xa1ZZy"
+   ],
+   "link_only_art": [
+    {
+     "what": "Art",
+     "by": "Dardo Studios"
+    }
+   ],
+   "reveals": []
+  },
+  {
+   "name": "Viktor Vektor - Drop Your Illusions",
+   "character": "Viktor Vektor",
+   "title": "Drop Your Illusions",
+   "type": null,
+   "rarity": "Art",
+   "number": null,
+   "printings": null,
+   "artists": [
+    "TOPDOG Entertainment"
+   ],
+   "path": "cards/Viktor_Vektor/Drop_Your_Illusions",
+   "images": [],
+   "artstation": [
+    "https://www.artstation.com/artwork/31EroY"
+   ],
+   "link_only_art": [
+    {
+     "what": "Art",
+     "by": "TOPDOG"
+    }
+   ],
+   "reveals": []
+  },
+  {
+   "name": "Viktor Vektor - Sit Down and Relax",
+   "character": "Viktor Vektor",
+   "title": "Sit Down and Relax",
+   "type": "Legend",
+   "rarity": "Nova",
+   "number": null,
+   "printings": "Box Toppers - Retail Nova 002",
+   "artists": [
+    "Ito (Kirby's Comic Art)",
+    "Envar"
+   ],
+   "path": "cards/Viktor_Vektor/Sit_Down_and_Relax",
+   "images": [
+    {
+     "file": "nova-002.webp",
+     "printing": "Nova Rare 002 (Box Toppers - Retail)"
+    }
+   ],
+   "artstation": [],
+   "link_only_art": [
+    {
+     "what": "Starter deck art",
+     "by": "Envar"
+    }
+   ],
+   "reveals": [
+    {
+     "id": "2018369166386880651",
+     "date": "2026-02-02",
+     "url": "https://x.com/Cyberpunk_TCG/status/2018369166386880651"
+    },
+    {
+     "id": "2036141611822797069",
+     "date": "2026-03-23",
+     "url": "https://x.com/Cyberpunk_TCG/status/2036141611822797069"
+    }
+   ]
+  },
+  {
+   "name": "Wakako Okada - Peace and Harmony",
+   "character": "Wakako Okada",
+   "title": "Peace and Harmony",
+   "type": "Legend",
+   "rarity": "Iconic Legend",
+   "number": "158",
+   "printings": "Beta Iconic Legend β158; Edgerunner Open S 1 Nova 054; Retail Iconic Legend 158",
+   "artists": [
+    "Pandart Studio",
+    "Mooncolony"
+   ],
+   "path": "cards/Wakako_Okada/Peace_and_Harmony",
+   "images": [
+    {
+     "file": "beta-158.webp",
+     "printing": "Beta Iconic #158"
+    },
+    {
+     "file": "retail-158.webp",
+     "printing": "Retail Iconic #158"
+    },
+    {
+     "file": "nova-054.webp",
+     "printing": "Nova Rare 054 (Edgerunner Open S 1)"
+    }
+   ],
+   "artstation": [],
+   "link_only_art": [
+    {
+     "what": "Regular printing art",
+     "by": "Mooncolony"
+    }
+   ],
+   "reveals": [
+    {
+     "id": "2083296876770599100",
+     "date": "2026-07-31",
+     "url": "https://x.com/Cyberpunk_TCG/status/2083296876770599100"
+    },
+    {
+     "id": "2114025313596215785",
+     "date": "2026-10-24",
+     "url": "https://x.com/Cyberpunk_TCG/status/2114025313596215785"
+    }
+   ]
+  },
+  {
+   "name": "Yorinobu Arasaka - Embracing Destruction",
+   "character": "Yorinobu Arasaka",
+   "title": "Embracing Destruction",
+   "type": "Legend",
+   "rarity": "Nova",
+   "number": null,
+   "printings": "Box Toppers - Retail Nova 001",
+   "artists": [
+    "Vincenzo Riccardi"
+   ],
+   "path": "cards/Yorinobu_Arasaka/Embracing_Destruction",
+   "images": [
+    {
+     "file": "nova-001.webp",
+     "printing": "Nova Rare 001 (Box Toppers - Retail)"
+    }
+   ],
+   "artstation": [
+    "https://www.artstation.com/artwork/gRaOdm"
+   ],
+   "link_only_art": [
+    {
+     "what": "Full art (ArtStation)",
+     "by": "ArtStation"
+    }
+   ],
+   "reveals": []
+  },
+  {
+   "name": "Yorinobu Arasaka - Steel Dragon",
+   "character": "Yorinobu Arasaka",
+   "title": "Steel Dragon",
+   "type": null,
+   "rarity": "Art",
+   "number": null,
+   "printings": null,
+   "artists": [
+    "Mooncolony",
+    "Tulio Brito"
+   ],
+   "path": "cards/Yorinobu_Arasaka/Steel_Dragon",
+   "images": [],
+   "artstation": [
+    "https://www.artstation.com/artwork/Ez3V84",
+    "https://www.artstation.com/artwork/1NAJ8X"
+   ],
+   "link_only_art": [
+    {
+     "what": "Art",
+     "by": "Mooncolony"
+    }
+   ],
+   "reveals": []
+  },
+  {
+   "name": "(Don't Fear) The Reaper",
+   "character": null,
+   "title": "(Don't Fear) The Reaper",
+   "type": "Program",
+   "rarity": "Nova",
+   "number": null,
+   "printings": "Night City Brawl S 1 Nova 012",
+   "artists": [
+    "Alex Eckman-Lawn"
+   ],
+   "path": "cards/Dont_Fear_The_Reaper",
+   "images": [
+    {
+     "file": "nova-012.webp",
+     "printing": "Nova Rare 012 (Night City Brawl S 1)"
+    }
+   ],
+   "artstation": [],
+   "link_only_art": [],
+   "reveals": [
+    {
+     "id": "2052056495957688734",
+     "date": "2026-05-06",
+     "url": "https://x.com/Cyberpunk_TCG/status/2052056495957688734"
+    },
+    {
+     "id": "2090469263182041166",
+     "date": "2026-08-20",
+     "url": "https://x.com/Cyberpunk_TCG/status/2090469263182041166"
+    }
+   ]
+  },
+  {
+   "name": "The Relic - Experimental Biochip",
+   "character": null,
+   "title": "The Relic - Experimental Biochip",
+   "type": "Gear",
+   "rarity": "Iconic Other",
+   "number": "163",
+   "printings": "Beta Iconic Other β163; Retail Iconic Other 163",
+   "artists": [
+    "Mooncolony",
+    "Łukasz Poller",
+    "Dardo Studios"
+   ],
+   "path": "cards/The_Relic/Experimental_Biochip",
+   "images": [
+    {
+     "file": "beta-163.webp",
+     "printing": "Beta Iconic #163"
+    },
+    {
+     "file": "retail-163.webp",
+     "printing": "Retail Iconic #163"
+    }
+   ],
+   "artstation": [
+    "https://www.artstation.com/artwork/8vw4Kw"
+   ],
+   "link_only_art": [
+    {
+     "what": "Regular printing art",
+     "by": "Dardo Studios"
+    }
+   ],
+   "reveals": [
+    {
+     "id": "2073149993829966207",
+     "date": "2026-07-03",
+     "url": "https://x.com/Cyberpunk_TCG/status/2073149993829966207"
+    },
+    {
+     "id": "2094531004249567727",
+     "date": "2026-08-31",
+     "url": "https://x.com/Cyberpunk_TCG/status/2094531004249567727"
+    },
+    {
+     "id": "2102066423174414620",
+     "date": "2026-09-21",
+     "url": "https://x.com/Cyberpunk_TCG/status/2102066423174414620"
+    }
+   ]
+  },
+  {
+   "name": "Overwatch - Panam's Gift",
+   "character": null,
+   "title": "Overwatch - Panam's Gift",
+   "type": "Gear",
+   "rarity": "Iconic Other",
+   "number": "165",
+   "printings": "Beta Iconic Other β165; Retail Iconic Other 165",
+   "artists": [
+    "Michal Ivan",
+    "Dardo Studios"
+   ],
+   "path": "cards/Overwatch/Panams_Gift",
+   "images": [
+    {
+     "file": "beta-165.webp",
+     "printing": "Beta Iconic #165"
+    },
+    {
+     "file": "retail-165.webp",
+     "printing": "Retail Iconic #165"
+    }
+   ],
+   "artstation": [],
+   "link_only_art": [],
+   "reveals": [
+    {
+     "id": "2050244362987094194",
+     "date": "2026-05-01",
+     "url": "https://x.com/Cyberpunk_TCG/status/2050244362987094194"
+    },
+    {
+     "id": "2068726068408709462",
+     "date": "2026-06-21",
+     "url": "https://x.com/Cyberpunk_TCG/status/2068726068408709462"
+    },
+    {
+     "id": "2092644202391769472",
+     "date": "2026-08-26",
+     "url": "https://x.com/Cyberpunk_TCG/status/2092644202391769472"
+    },
+    {
+     "id": "2105328187806814508",
+     "date": "2026-09-30",
+     "url": "https://x.com/Cyberpunk_TCG/status/2105328187806814508"
+    }
+   ]
+  },
+  {
+   "name": "Towerfall",
+   "character": null,
+   "title": "Towerfall",
+   "type": "Program",
+   "rarity": "Iconic Other",
+   "number": "167",
+   "printings": "Beta Iconic Other β167; Retail Iconic Other 167",
+   "artists": [
+    "ADIA",
+    "Mooncolony"
+   ],
+   "path": "cards/Towerfall",
+   "images": [
+    {
+     "file": "beta-167.webp",
+     "printing": "Beta Iconic #167"
+    },
+    {
+     "file": "retail-167.webp",
+     "printing": "Retail Iconic #167"
+    }
+   ],
+   "artstation": [],
+   "link_only_art": [],
+   "reveals": [
+    {
+     "id": "2095618132257722560",
+     "date": "2026-09-03",
+     "url": "https://x.com/Cyberpunk_TCG/status/2095618132257722560"
+    },
+    {
+     "id": "2102865823610146948",
+     "date": "2026-09-23",
+     "url": "https://x.com/Cyberpunk_TCG/status/2102865823610146948"
+    }
+   ]
+  },
+  {
+   "name": "Afterparty at Lizzie's",
+   "character": null,
+   "title": "Afterparty at Lizzie's",
+   "type": "Program",
+   "rarity": "Nova",
+   "number": null,
+   "printings": "Edgerunner Open S 1 Nova 005",
+   "artists": [
+    "Alicja Użarowska"
+   ],
+   "path": "cards/Afterparty_at_Lizzies",
+   "images": [
+    {
+     "file": "nova-005.webp",
+     "printing": "Nova Rare 005 (Edgerunner Open S 1)"
+    }
+   ],
+   "artstation": [],
+   "link_only_art": [],
+   "reveals": [
+    {
+     "id": "2028878247975371140",
+     "date": "2026-03-03",
+     "url": "https://x.com/Cyberpunk_TCG/status/2028878247975371140"
+    }
+   ]
+  },
+  {
+   "name": "Bootleg Black Sapphire Show",
+   "character": null,
+   "title": "Bootleg Black Sapphire Show",
+   "type": "Program",
+   "rarity": "Nova",
+   "number": null,
+   "printings": "Night City Brawl S 1 Nova 007",
+   "artists": [
+    "ADIA"
+   ],
+   "path": "cards/Bootleg_Black_Sapphire_Show",
+   "images": [
+    {
+     "file": "nova-007.webp",
+     "printing": "Nova Rare 007 (Night City Brawl S 1)"
+    }
+   ],
+   "artstation": [
+    "https://www.artstation.com/artwork/O3yZQ8"
+   ],
+   "link_only_art": [
+    {
+     "what": "Full art (ArtStation)",
+     "by": "ArtStation"
+    }
+   ],
+   "reveals": [
+    {
+     "id": "2061478371108766027",
+     "date": "2026-06-01",
+     "url": "https://x.com/Cyberpunk_TCG/status/2061478371108766027"
+    },
+    {
+     "id": "2065102493466431920",
+     "date": "2026-06-11",
+     "url": "https://x.com/Cyberpunk_TCG/status/2065102493466431920"
+    }
+   ]
+  },
+  {
+   "name": "Corpo Security",
+   "character": null,
+   "title": "Corpo Security",
+   "type": "Unit",
+   "rarity": "Nova",
+   "number": null,
+   "printings": "Night City Brawl S 1 Nova 009",
+   "artists": [
+    "Daniel Valaisis"
+   ],
+   "path": "cards/Corpo_Security",
+   "images": [
+    {
+     "file": "nova-009.webp",
+     "printing": "Nova Rare 009 (Night City Brawl S 1)"
+    }
+   ],
+   "artstation": [],
+   "link_only_art": [],
+   "reveals": []
+  },
+  {
+   "name": "Cyberpsychosis",
+   "character": null,
+   "title": "Cyberpsychosis",
+   "type": "Program",
+   "rarity": "Nova",
+   "number": null,
+   "printings": "Night City Brawl S 1 Nova 008",
+   "artists": [
+    "Michal Ivan"
+   ],
+   "path": "cards/Cyberpsychosis",
+   "images": [
+    {
+     "file": "nova-008.webp",
+     "printing": "Nova Rare 008 (Night City Brawl S 1)"
+    }
+   ],
+   "artstation": [],
+   "link_only_art": [],
+   "reveals": [
+    {
+     "id": "2040097427676373273",
+     "date": "2026-04-03",
+     "url": "https://x.com/Cyberpunk_TCG/status/2040097427676373273"
+    }
+   ]
+  },
+  {
+   "name": "Delamain Cab",
+   "character": null,
+   "title": "Delamain Cab",
+   "type": "Unit",
+   "rarity": "Nova",
+   "number": null,
+   "printings": "Night City Brawl S 1 Nova 014",
+   "artists": [
+    "Daniel Valaisis"
+   ],
+   "path": "cards/Delamain_Cab",
+   "images": [
+    {
+     "file": "nova-014.webp",
+     "printing": "Nova Rare 014 (Night City Brawl S 1)"
+    }
+   ],
+   "artstation": [],
+   "link_only_art": [],
+   "reveals": []
+  },
+  {
+   "name": "Dying Night - V's Pistol",
+   "character": null,
+   "title": "Dying Night - V's Pistol",
+   "type": "Gear",
+   "rarity": "Nova",
+   "number": null,
+   "printings": "Night City Brawl S 1 Nova 016",
+   "artists": [
+    "Ivan Shavrin"
+   ],
+   "path": "cards/Dying_Night/Vs_Pistol",
+   "images": [
+    {
+     "file": "nova-016.webp",
+     "printing": "Nova Rare 016 (Night City Brawl S 1)"
+    }
+   ],
+   "artstation": [
+    "https://www.artstation.com/artwork/DL0WEe"
+   ],
+   "link_only_art": [
+    {
+     "what": "Full art (ArtStation)",
+     "by": "ArtStation"
+    }
+   ],
+   "reveals": []
+  },
+  {
+   "name": "Field Operator",
+   "character": null,
+   "title": "Field Operator",
+   "type": "Unit",
+   "rarity": "Nova",
+   "number": null,
+   "printings": "Edgerunner Open S 1 Nova 002",
+   "artists": [
+    "Michal Ivan"
+   ],
+   "path": "cards/Field_Operator",
+   "images": [
+    {
+     "file": "nova-002.webp",
+     "printing": "Nova Rare 002 (Edgerunner Open S 1)"
+    }
+   ],
+   "artstation": [],
+   "link_only_art": [],
+   "reveals": [
+    {
+     "id": "2074887022833959195",
+     "date": "2026-07-08",
+     "url": "https://x.com/Cyberpunk_TCG/status/2074887022833959195"
+    }
+   ]
+  },
+  {
+   "name": "Floor It",
+   "character": null,
+   "title": "Floor It",
+   "type": "Program",
+   "rarity": "Nova",
+   "number": null,
+   "printings": "Night City Brawl S 1 Nova 018",
+   "artists": [
+    "DOFRESH"
+   ],
+   "path": "cards/Floor_It",
+   "images": [
+    {
+     "file": "nova-018.webp",
+     "printing": "Nova Rare 018 (Night City Brawl S 1)"
+    }
+   ],
+   "artstation": [],
+   "link_only_art": [],
+   "reveals": []
+  },
+  {
+   "name": "Gorilla Arms",
+   "character": null,
+   "title": "Gorilla Arms",
+   "type": "Gear",
+   "rarity": "Nova",
+   "number": null,
+   "printings": "Pre-Release Retail Nova 011",
+   "artists": [
+    "TOPDOG Entertainment"
+   ],
+   "path": "cards/Gorilla_Arms",
+   "images": [
+    {
+     "file": "nova-011.webp",
+     "printing": "Nova Rare 011 (Pre-Release Retail)"
+    }
+   ],
+   "artstation": [
+    "https://www.artstation.com/artwork/a0ARK8"
+   ],
+   "link_only_art": [
+    {
+     "what": "Full art (ArtStation)",
+     "by": "ArtStation"
+    }
+   ],
+   "reveals": [
+    {
+     "id": "2029603124084719760",
+     "date": "2026-03-05",
+     "url": "https://x.com/Cyberpunk_TCG/status/2029603124084719760"
+    }
+   ]
+  },
+  {
+   "name": "Industrial Assembly",
+   "character": null,
+   "title": "Industrial Assembly",
+   "type": "Program",
+   "rarity": "Nova",
+   "number": null,
+   "printings": "Edgerunner Open S 1 Nova 004",
+   "artists": [
+    "Alexander Dudar"
+   ],
+   "path": "cards/Industrial_Assembly",
+   "images": [
+    {
+     "file": "nova-004.webp",
+     "printing": "Nova Rare 004 (Edgerunner Open S 1)"
+    }
+   ],
+   "artstation": [],
+   "link_only_art": [],
+   "reveals": []
+  },
+  {
+   "name": "Mandibular Upgrade",
+   "character": null,
+   "title": "Mandibular Upgrade",
+   "type": "Gear",
+   "rarity": "Nova",
+   "number": null,
+   "printings": "Night City Brawl S 1 Nova 006",
+   "artists": [
+    "Lea Leonowicz"
+   ],
+   "path": "cards/Mandibular_Upgrade",
+   "images": [
+    {
+     "file": "nova-006.webp",
+     "printing": "Nova Rare 006 (Night City Brawl S 1)"
+    }
+   ],
+   "artstation": [],
+   "link_only_art": [],
+   "reveals": []
+  },
+  {
+   "name": "Mantis Blades",
+   "character": null,
+   "title": "Mantis Blades",
+   "type": "Gear",
+   "rarity": "Nova",
+   "number": null,
+   "printings": "Pre-Release Beta Nova 011",
+   "artists": [
+    "Ricardo Padierne Silvera"
+   ],
+   "path": "cards/Mantis_Blades",
+   "images": [
+    {
+     "file": "nova-011.webp",
+     "printing": "Nova Rare 011 (Pre-Release Beta)"
+    }
+   ],
+   "artstation": [],
+   "link_only_art": [],
+   "reveals": []
+  },
+  {
+   "name": "MaxTac Squadron",
+   "character": null,
+   "title": "MaxTac Squadron",
+   "type": "Unit",
+   "rarity": "Nova",
+   "number": null,
+   "printings": "Night City Brawl S 1 Nova 010",
+   "artists": [
+    "Olgierd Ciszak"
+   ],
+   "path": "cards/MaxTac_Squadron",
+   "images": [
+    {
+     "file": "nova-010.webp",
+     "printing": "Nova Rare 010 (Night City Brawl S 1)"
+    }
+   ],
+   "artstation": [],
+   "link_only_art": [],
+   "reveals": [
+    {
+     "id": "2047707773777916144",
+     "date": "2026-04-24",
+     "url": "https://x.com/Cyberpunk_TCG/status/2047707773777916144"
+    },
+    {
+     "id": "2084671332193550766",
+     "date": "2026-08-04",
+     "url": "https://x.com/Cyberpunk_TCG/status/2084671332193550766"
+    }
+   ]
+  },
+  {
+   "name": "Minotaur",
+   "character": null,
+   "title": "Minotaur",
+   "type": "Unit",
+   "rarity": "Nova",
+   "number": null,
+   "printings": "Night City Brawl S 1 Nova 002",
+   "artists": [
+    "CD PROJEKT RED"
+   ],
+   "path": "cards/Minotaur",
+   "images": [
+    {
+     "file": "nova-002.webp",
+     "printing": "Nova Rare 002 (Night City Brawl S 1)"
+    }
+   ],
+   "artstation": [],
+   "link_only_art": [],
+   "reveals": []
+  },
+  {
+   "name": "NetWatch Netdriver",
+   "character": null,
+   "title": "NetWatch Netdriver",
+   "type": "Gear",
+   "rarity": "Nova",
+   "number": null,
+   "printings": "Night City Brawl S 1 Nova 017",
+   "artists": [
+    "Mooncolony"
+   ],
+   "path": "cards/NetWatch_Netdriver",
+   "images": [
+    {
+     "file": "nova-017.webp",
+     "printing": "Nova Rare 017 (Night City Brawl S 1)"
+    }
+   ],
+   "artstation": [],
+   "link_only_art": [],
+   "reveals": [
+    {
+     "id": "2081772597277082034",
+     "date": "2026-07-27",
+     "url": "https://x.com/Cyberpunk_TCG/status/2081772597277082034"
+    }
+   ]
+  },
+  {
+   "name": "Peace Offering",
+   "character": null,
+   "title": "Peace Offering",
+   "type": "Program",
+   "rarity": "Nova",
+   "number": null,
+   "printings": "Edgerunner Open S 1 Nova 006",
+   "artists": [
+    "Mattia De Iulis"
+   ],
+   "path": "cards/Peace_Offering",
+   "images": [
+    {
+     "file": "nova-006.webp",
+     "printing": "Nova Rare 006 (Edgerunner Open S 1)"
+    }
+   ],
+   "artstation": [],
+   "link_only_art": [],
+   "reveals": []
+  },
+  {
+   "name": "Riding Nomad",
+   "character": null,
+   "title": "Riding Nomad",
+   "type": "Unit",
+   "rarity": "Nova",
+   "number": null,
+   "printings": "Edgerunner Open S 1 Nova 003",
+   "artists": [
+    "Michal Ivan"
+   ],
+   "path": "cards/Riding_Nomad",
+   "images": [
+    {
+     "file": "nova-003.webp",
+     "printing": "Nova Rare 003 (Edgerunner Open S 1)"
+    }
+   ],
+   "artstation": [],
+   "link_only_art": [],
+   "reveals": [
+    {
+     "id": "2031052638674952550",
+     "date": "2026-03-09",
+     "url": "https://x.com/Cyberpunk_TCG/status/2031052638674952550"
+    }
+   ]
+  },
+  {
+   "name": "Sandevistan",
+   "character": null,
+   "title": "Sandevistan",
+   "type": "Gear",
+   "rarity": "Nova",
+   "number": null,
+   "printings": "Night City Showdown S1 Nova 001",
+   "artists": [
+    "Envar"
+   ],
+   "path": "cards/Sandevistan",
+   "images": [
+    {
+     "file": "nova-001.webp",
+     "printing": "Nova Rare 001 (Night City Showdown S1)"
+    }
+   ],
+   "artstation": [],
+   "link_only_art": [],
+   "reveals": [
+    {
+     "id": "2096630041043951974",
+     "date": "2026-09-06",
+     "url": "https://x.com/Cyberpunk_TCG/status/2096630041043951974"
+    }
+   ]
+  },
+  {
+   "name": "Satori - Sword of Saburo",
+   "character": null,
+   "title": "Satori - Sword of Saburo",
+   "type": "Gear",
+   "rarity": "Nova",
+   "number": null,
+   "printings": "Night City Brawl S 1 Nova 003",
+   "artists": [
+    "Ivan Shavrin"
+   ],
+   "path": "cards/Satori/Sword_of_Saburo",
+   "images": [
+    {
+     "file": "nova-003.webp",
+     "printing": "Nova Rare 003 (Night City Brawl S 1)"
+    }
+   ],
+   "artstation": [
+    "https://www.artstation.com/artwork/6LY1ON"
+   ],
+   "link_only_art": [
+    {
+     "what": "Full art (ArtStation)",
+     "by": "ArtStation"
+    }
+   ],
+   "reveals": []
+  },
+  {
+   "name": "Secondhand Bombus",
+   "character": null,
+   "title": "Secondhand Bombus",
+   "type": "Unit",
+   "rarity": "Nova",
+   "number": null,
+   "printings": "Night City Brawl S 1 Nova 005",
+   "artists": [
+    "Luca Claretti"
+   ],
+   "path": "cards/Secondhand_Bombus",
+   "images": [
+    {
+     "file": "nova-005.webp",
+     "printing": "Nova Rare 005 (Night City Brawl S 1)"
+    }
+   ],
+   "artstation": [],
+   "link_only_art": [],
+   "reveals": []
+  },
+  {
+   "name": "Trust No One",
+   "character": null,
+   "title": "Trust No One",
+   "type": "Program",
+   "rarity": "Nova",
+   "number": null,
+   "printings": "Edgerunner Open S 1 Nova 007",
+   "artists": [
+    "Jesús Hervás"
+   ],
+   "path": "cards/Trust_No_One",
+   "images": [
+    {
+     "file": "nova-007.webp",
+     "printing": "Nova Rare 007 (Edgerunner Open S 1)"
+    }
+   ],
+   "artstation": [],
+   "link_only_art": [],
+   "reveals": [
+    {
+     "id": "2048432278301257902",
+     "date": "2026-04-26",
+     "url": "https://x.com/Cyberpunk_TCG/status/2048432278301257902"
+    },
+    {
+     "id": "2081409636561829976",
+     "date": "2026-07-26",
+     "url": "https://x.com/Cyberpunk_TCG/status/2081409636561829976"
+    }
+   ]
+  },
+  {
+   "name": "We Gotta Live Together",
+   "character": null,
+   "title": "We Gotta Live Together",
+   "type": "Program",
+   "rarity": "Nova",
+   "number": null,
+   "printings": "Night City Brawl S 1 Nova 013",
+   "artists": [
+    "Olgierd Ciszak"
+   ],
+   "path": "cards/We_Gotta_Live_Together",
+   "images": [
+    {
+     "file": "nova-013.webp",
+     "printing": "Nova Rare 013 (Night City Brawl S 1)"
+    }
+   ],
+   "artstation": [],
+   "link_only_art": [],
+   "reveals": [
+    {
+     "id": "2082572117317402648",
+     "date": "2026-07-29",
+     "url": "https://x.com/Cyberpunk_TCG/status/2082572117317402648"
+    },
+    {
+     "id": "2094818256083136935",
+     "date": "2026-09-01",
+     "url": "https://x.com/Cyberpunk_TCG/status/2094818256083136935"
+    }
+   ]
+  },
+  {
+   "name": "Wraith Marauders",
+   "character": null,
+   "title": "Wraith Marauders",
+   "type": "Unit",
+   "rarity": "Nova",
+   "number": null,
+   "printings": "Night City Brawl S 1 Nova 011",
+   "artists": [
+    "Daniel Valaisis"
+   ],
+   "path": "cards/Wraith_Marauders",
+   "images": [
+    {
+     "file": "nova-011.webp",
+     "printing": "Nova Rare 011 (Night City Brawl S 1)"
+    }
+   ],
+   "artstation": [],
+   "link_only_art": [],
+   "reveals": [
+    {
+     "id": "2062203347495477663",
+     "date": "2026-06-03",
+     "url": "https://x.com/Cyberpunk_TCG/status/2062203347495477663"
+    }
+   ]
+  },
+  {
+   "name": "Delamain Rideshare AI",
+   "character": null,
+   "title": "Delamain Rideshare AI",
+   "type": null,
+   "rarity": "Other",
+   "number": null,
+   "printings": null,
+   "artists": [
+    "Lukasz Wiktorzak"
+   ],
+   "path": "cards/Delamain_Rideshare_AI",
+   "images": [],
+   "artstation": [
+    "https://www.artstation.com/artwork/mOA9z9"
+   ],
+   "link_only_art": [
+    {
+     "what": "Art",
+     "by": "Lukasz Wiktorzak"
+    }
+   ],
+   "reveals": []
+  },
+  {
+   "name": "Delamain ad",
+   "character": null,
+   "title": "Delamain ad",
+   "type": null,
+   "rarity": "Other",
+   "number": null,
+   "printings": null,
+   "artists": [
+    "Daniel Valaisis"
+   ],
+   "path": "cards/Delamain_ad",
+   "images": [],
+   "artstation": [
+    "https://www.artstation.com/artwork/18k3P2"
+   ],
+   "link_only_art": [
+    {
+     "what": "Art",
+     "by": "Daniel Valaisis"
+    }
+   ],
+   "reveals": []
+  },
+  {
+   "name": "Faraday and Gloria",
+   "character": null,
+   "title": "Faraday and Gloria",
+   "type": null,
+   "rarity": "Other",
+   "number": null,
+   "printings": null,
+   "artists": [
+    "Grafit Studio"
+   ],
+   "path": "cards/Faraday_and_Gloria",
+   "images": [],
+   "artstation": [
+    "https://www.artstation.com/artwork/QxxJZE"
+   ],
+   "link_only_art": [
+    {
+     "what": "Art",
+     "by": "Grafit Studio"
+    }
+   ],
+   "reveals": []
+  },
+  {
+   "name": "Modded Murumasa",
+   "character": null,
+   "title": "Modded Murumasa",
+   "type": null,
+   "rarity": "Other",
+   "number": null,
+   "printings": null,
+   "artists": [
+    "Mooncolony"
+   ],
+   "path": "cards/Modded_Murumasa",
+   "images": [],
+   "artstation": [
+    "https://www.artstation.com/artwork/Wd2qx2"
+   ],
+   "link_only_art": [
+    {
+     "what": "Art",
+     "by": "Mooncolony"
+    }
+   ],
+   "reveals": []
+  },
+  {
+   "name": "Riot Shield",
+   "character": null,
+   "title": "Riot Shield",
+   "type": null,
+   "rarity": "Other",
+   "number": null,
+   "printings": null,
+   "artists": [
+    "TOPDOG Entertainment"
+   ],
+   "path": "cards/Riot_Shield",
+   "images": [],
+   "artstation": [
+    "https://www.artstation.com/artwork/8vBoW6"
+   ],
+   "link_only_art": [
+    {
+     "what": "Art",
+     "by": "TOPDOG Entertainment"
+    }
+   ],
+   "reveals": []
+  },
+  {
+   "name": "Westbrook Netrunner and Tetratronic Rippler",
+   "character": null,
+   "title": "Westbrook Netrunner and Tetratronic Rippler",
+   "type": null,
+   "rarity": "Other",
+   "number": null,
+   "printings": null,
+   "artists": [
+    "ADIA"
+   ],
+   "path": "cards/Westbrook_Netrunner_and_Tetratronic_Rippler",
+   "images": [],
+   "artstation": [
+    "https://www.artstation.com/artwork/O3yZQ8"
+   ],
+   "link_only_art": [
+    {
+     "what": "Art",
+     "by": "ADIA"
+    }
+   ],
+   "reveals": []
+  },
+  {
+   "name": "Zetatech Berserk",
+   "character": null,
+   "title": "Zetatech Berserk",
+   "type": null,
+   "rarity": "Other",
+   "number": null,
+   "printings": null,
+   "artists": [
+    "Mooncolony",
+    "Tulio Brito"
+   ],
+   "path": "cards/Zetatech_Berserk",
+   "images": [],
+   "artstation": [
+    "https://www.artstation.com/artwork/41885l",
+    "https://www.artstation.com/artwork/41XdY1"
+   ],
+   "link_only_art": [
+    {
+     "what": "Art",
+     "by": "Mooncolony"
+    }
+   ],
+   "reveals": []
+  }
+ ]
+}
